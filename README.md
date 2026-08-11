@@ -48,17 +48,10 @@
 <ul>
   <li>🏫 <b>Business Information Systems Student</b></li>
   <li>📱 Learning and developing with <b>Flutter & Dart</b></li>
-  <li>💻 Strong foundation in <b>C++ & Object-Oriented Programming</b></li>
   <li>🧠 Studying <b>Data Structures & Algorithms</b></li>
   <li>⚡ Practicing <b>Problem Solving</b></li>
   <li>🔧 Working with <b>Git & GitHub</b></li>
 </ul>
-
-<h3>💼 Opportunities</h3>
-
-<p>
-  🚀 Open to <b>Flutter Development</b>, <b>Software Engineering Internships</b>, and <b>Freelance</b> opportunities.
-</p>
 
 <br clear="right">
 
@@ -74,7 +67,7 @@
 
 <!-- ================= LANGUAGES & TOOLS SECTION ================= -->
 
-## 🚀 Languages & Tools
+## 👾 Languages & Tools
 
 <div align="center">
 
@@ -93,37 +86,6 @@
 <br>
 
 <!-- ================= TECHNOLOGY STACK ================= -->
-
-## ⚙️ Technology Stack
-
-### 🥇 Primary Technology Stack
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-6C63FF?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-3A3A3A?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-007ACC?style=for-the-badge)
-
-### 🥈 Secondary Technology Stack
-
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-00A8E8?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🥉 Development Tools
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-<br>
 
 <!-- ================= FEATURED PROJECTS ================= -->
 
