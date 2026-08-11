@@ -282,53 +282,6 @@
 
 <!-- ================= CONTRIBUTION SNAKE ================= -->
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/mohamewaleedrageb/mohamewaleedrageb/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/mohamewaleedrageb/mohamewaleedrageb/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/mohamewaleedrageb/mohamewaleedrageb/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
-
-<br>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-</div>
-
-<br>
-
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamewaleedrageb&theme=react-dark&hide_border=true&area=true&bg_color=0D1117"/>
-
-</p>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-</div>
-
-<!-- ================= CONTACT SECTION ================= -->
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -368,39 +321,3 @@
 </div>
 
 <!-- ================= PROFILE STATS ================= -->
-
-## 👨🏻‍💻 Views and Followers
-
-<a href="https://github.com/mohamewaleedrageb">
-
-<img src="https://komarev.com/ghpvc/?username=mohamewaleedrageb&label=Profile%20Views&color=00B4DB&style=flat" />
-
-</a>
-
-<a href="https://github.com/mohamewaleedrageb?tab=followers">
-
-<img src="https://img.shields.io/github/followers/mohamewaleedrageb?label=Followers&style=social" />
-
-</a>
-
-<!-- Closing typing animation -->
-
-<h3 align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+💙;+Let's+build+something+great!;Always+Learning+🚀&color=00B4DB">
-
-</h3>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150">
-
-</div>
-
-<!-- ================= FOOTER WAVE ================= -->
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=100&section=footer" width="100%" />
-
-</p>
