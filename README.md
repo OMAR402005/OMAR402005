@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,html,css,js,git,github,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,androidstudio" />
 
 </div>
 
