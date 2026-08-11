@@ -99,4 +99,21 @@
 
 </p>
 
+## 🤝 Connect With Me
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/omar-mohamed-om4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=omar402005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 <!-- ================= CONTRIBUTION SNAKE ================= -->
