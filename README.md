@@ -1,7 +1,7 @@
 <!-- ================= HEADER WAVE BANNER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=150&section=header&text=Hi!+I'm+Mohamed+Waleed+👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=150&section=header&text=Omar+Mohamed+👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
 </p>
 
 <!-- Typing animation -->
